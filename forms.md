@@ -6,4 +6,4 @@
 
 [_Forms Tutorial._](https://www.w3.org/WAI/tutorials/forms/) W3C Web Accessibility Initiative (WAI).
 
-[_Placing Non-Interactive Content Between Form Controls_](https://www.accessibility-developer-guide.com/examples/forms/non-interactive-content/) Accessibility Developer Guide (ADG\*)
+[_Forms._](https://www.accessibility-developer-guide.com/examples/forms/) Accessibility Developer Guide (ADG\*)
