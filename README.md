@@ -1,32 +1,26 @@
 # Accessibility Resources
 
+A growing list of accessibility resources that I find helpful.
+
 ## Table of Contents
 
-- [Goal](#Goal)
 - [Top Resources](#top-resources)
 - [Free Educational Resources](#free-educational-resources)
-- [Sources: HTML Elements](#sources-html-elements)
+- [Checklists](#checklists)
+- [HTML Elements](#sources-html-elements)
   - [Buttons](#buttons)
-  - [Cards](#cards)
   - [Forms](#forms)
   - [Links](#links)
-- [Sources: Readability](#sources-readability)
+- [Components](#components)
+- [Readability](#sources-readability)
 
 ---
 
-## Goal
-
-- Share accessibility resources that I have found helpful.
-
 ## Top Resources
-
-### Official Guidance
 
 - [_Web Content Accessibility Guidelines (WCAG) 2_](https://www.w3.org/TR/WCAG21/)
 
-### Simplified Checklist
-
-- [_WebAIM's WCAG 2 Checklist_](https://webaim.org/standards/wcag/checklist)
+- [_WebAIM_](https://webaim.org/)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -38,7 +32,15 @@
 
 [Back to Table of Contents](#table-of-contents)
 
-## Sources: HTML Elements
+## Checklists
+
+- [_WebAIM's WCAG 2 Checklist_](https://webaim.org/standards/wcag/checklist)
+
+- [_The A11Y Project: Check Your WCAG Compliance_](https://www.a11yproject.com/checklist/)
+
+[Back to Table of Contents](#table-of-contents)
+
+## HTML Elements
 
 - Bailey, Eric. [_Accessible HTML Content Patterns_](https://github.com/ericwbailey/accessible-html-content-patterns). GitHub.
 
@@ -47,10 +49,6 @@
 - Dannaway, Adham. [_I've been doing buttons wrong! Have you?_](https://uxplanet.org/ive-been-doing-buttons-wrong-have-you-2117c0066613) UX Planet. February 3, 2022.
 
 - Shadeed, Ahmad. [_Enhancing The Clickable Area Size._](https://ishadeed.com/article/clickable-area/) August 13, 2019.
-
-### Cards
-
-- Pickering, Heydon. [_Cards._](https://inclusive-components.design/cards/) Inclusive Components. June 4, 2018.
 
 ### Forms
 
@@ -66,7 +64,15 @@
 
 [Back to Table of Contents](#table-of-contents)
 
-## Sources: Readability
+## Components
+
+- Bailey, Eric. [_Web Components Still Need To Be Accessible._](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/) 24 Accessibility. December 20, 2018.
+
+- Pickering, Heydon. [_Cards._](https://inclusive-components.design/cards/) Inclusive Components. June 4, 2018.
+
+[Back to Table of Contents](#table-of-contents)
+
+## Readability
 
 - Loranger, Hoa. [_Plain Language Is for Everyone, Even Experts_](https://www.nngroup.com/articles/plain-language-experts/). Nielsen Norman Group. October 8, 2017.
 
