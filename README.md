@@ -7,12 +7,12 @@ A growing list of accessibility resources that I find helpful.
 - [Top Resources](#top-resources)
 - [Free Educational Resources](#free-educational-resources)
 - [Checklists](#checklists)
-- [HTML Elements](#sources-html-elements)
+- [HTML Elements](#html-elements)
   - [Buttons](#buttons)
   - [Forms](#forms)
   - [Links](#links)
 - [Components](#components)
-- [Readability](#sources-readability)
+- [Readability](#readability)
 
 ---
 
