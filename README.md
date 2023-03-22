@@ -12,6 +12,7 @@ A growing list of accessibility resources that I find helpful.
   - [Forms](#forms)
   - [Links](#links)
 - [Components](#components)
+- [Screen Readers](#screen-readers)
 - [Readability](#readability)
 
 ---
@@ -69,6 +70,12 @@ A growing list of accessibility resources that I find helpful.
 - Bailey, Eric. [_Web Components Still Need To Be Accessible._](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/) 24 Accessibility. December 20, 2018.
 
 - Pickering, Heydon. [_Cards._](https://inclusive-components.design/cards/) Inclusive Components. June 4, 2018.
+
+[Back to Table of Contents](#table-of-contents)
+
+## Screen Readers
+
+- Pickering, Heydon. [_Responses to the Screen Reader Strategy Survey._](https://heydonworks.com/article/responses-to-the-screen-reader-strategy-survey/) Heydon Works. June 30, 2016.
 
 [Back to Table of Contents](#table-of-contents)
 
