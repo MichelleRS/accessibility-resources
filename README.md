@@ -53,6 +53,8 @@ A growing list of accessibility resources that I find helpful.
 
 ### Forms
 
+- O'Hara, Scott. [_A11y Styled Form Controls._](https://github.com/scottaohara/a11y_styled_form_controls)
+
 - [_Creating Accessible Forms._](https://webaim.org/techniques/forms/) WebAIM.
 
 - [_Forms Tutorial._](https://www.w3.org/WAI/tutorials/forms/) W3C Web Accessibility Initiative (WAI).
