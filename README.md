@@ -19,7 +19,7 @@ A growing list of accessibility resources that I find helpful.
 
 ## Top Resources
 
-- [_Web Content Accessibility Guidelines (WCAG) 2_](https://www.w3.org/TR/WCAG21/)
+- [_Web Content Accessibility Guidelines (WCAG) 2.2_](https://www.w3.org/TR/2023/REC-WCAG22-20231005/)
 
 - [_WebAIM_](https://webaim.org/)
 
